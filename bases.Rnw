@@ -560,7 +560,7 @@ Il est possible --- et souvent souhaitable --- de nommer les éléments
 d'un vecteur; on dit qu'on leur attribue une \emph{étiquette}. Les
 étiquettes sont enregistrées dans l'attribut \attribut{names} du
 vecteur. Il y a deux grandes façons de procéder: en spécificant les
-noms dès la création du vecteur, ou à posteriori en ajoutant
+noms dès la création du vecteur, ou a posteriori en ajoutant
 l'attribut au vecteur.
 <<echo=TRUE>>=
 (v <- c(a = 1, b = 2, c = 5))
